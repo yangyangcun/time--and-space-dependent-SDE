@@ -1,1 +1,1 @@
-# time--and-space-dependent-SDE
+# time-and-space-dependent-SDE
